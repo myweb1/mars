@@ -1,0 +1,13 @@
+body {
+    background-color: black !important ;
+}
+
+#canvaso {
+    background-image: url("mars.jpg");
+}
+h1 {
+    color: white !important ; 
+}
+#pe {
+    font-size: 5px;
+}
